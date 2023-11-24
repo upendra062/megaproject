@@ -2,6 +2,4 @@
 ```
 bash command run here 
 ```
-terminal command
-```
 ```
